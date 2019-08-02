@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Users>
+    <User id="1">
+        <firstname>Peter</firstname>
+        <lastname>Pen</lastname>
+        <email>pp@gmail.com</email>
+        <phonenum>123456789</phonenum>
+        <Address id = "101">
+            <Country id = "1001">
+                <countryname>Belarus</countryname>
+            </Country>
+            <City id = "10011">
+                <cityname>Minsk</cityname>
+            </City>
+            <addressline>Kuprevicha-10A</addressline>
+        </Address>
+        <Address id = "102">
+            <Country id = "1002">
+                <countryname>Germany</countryname>
+            </Country>
+            <City id = "10021">
+                <cityname>Berlin</cityname>
+            </City>
+            <addressline>Berolinastrasse-5</addressline>
+        </Address>
+    </User>
+    <User id="2">
+        <firstname>Nick</firstname>
+        <lastname>Zhuk</lastname>
+        <email>nz@hotmail.com</email>
+        <phonenum>2221113334</phonenum>
+        <Address id = "201">
+            <Country id = "1001">
+                <countryname>Belarus</countryname>
+            </Country>
+            <City id = "10012">
+                <cityname>Brest</cityname>
+            </City>
+            <addressline>Kolasa-17</addressline>
+        </Address>
+    </User>
+</Users>
